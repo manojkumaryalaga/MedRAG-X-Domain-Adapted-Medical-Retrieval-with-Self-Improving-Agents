@@ -28,22 +28,22 @@ W&B training run: [wandb.ai/manojkyalaga-florida-atlantic-university/medrag-x](h
 ## Results
 
 ### Data pipeline output
-![Data Pipeline](screenshots/data_pipeline.png)
+![Data Pipeline](Screenshots/data_pipeline.png)
 
 ### Training — epoch scores saved every checkpoint
-![Training](screenshots/training.png)
+![Training](Screenshots/training.png)
 
 ### W&B training curves
-![WandB](screenshots/wandb.png)
+![WandB](Screenshots/wandb.png)
 
 ### Retrieval benchmark results
-![Benchmark](screenshots/benchmark.png)
+![Benchmark](Screenshots/benchmark.png)
 
 ### Multi-agent self-improving loop
-![Agents](screenshots/agents.png)
+![Agents](Screenshots/agents.png)
 
 ### HuggingFace model page
-![HuggingFace](screenshots/huggingface.png)
+![HuggingFace](Screenshots/huggingface.png)
 
 ---
 
