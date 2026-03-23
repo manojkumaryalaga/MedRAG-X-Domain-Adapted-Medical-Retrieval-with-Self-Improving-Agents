@@ -1,0 +1,14 @@
+.env
+triplets_5k.json
+embeddings.npy
+medrag-x-v3/
+ckpt_epoch_*/
+.venv/
+venv/
+__pycache__/
+*.pyc
+wandb/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

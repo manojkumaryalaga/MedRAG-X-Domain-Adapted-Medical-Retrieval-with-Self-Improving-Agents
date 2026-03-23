@@ -1,0 +1,9 @@
+sentence-transformers
+datasets
+transformers
+wandb
+openai
+numpy
+python-dotenv
+huggingface-hub
+torch
