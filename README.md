@@ -25,7 +25,7 @@ W&B training run: [wandb.ai/manojkyalaga-florida-atlantic-university/medrag-x](h
 
 ---
 
-## Screenshots
+## Results
 
 ### Data pipeline output
 ![Data Pipeline](screenshots/data_pipeline.png)
@@ -42,7 +42,7 @@ W&B training run: [wandb.ai/manojkyalaga-florida-atlantic-university/medrag-x](h
 ### Multi-agent self-improving loop
 ![Agents](screenshots/agents.png)
 
-### HuggingFace model page — live with eval metrics
+### HuggingFace model page
 ![HuggingFace](screenshots/huggingface.png)
 
 ---
