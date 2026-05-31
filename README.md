@@ -48,7 +48,7 @@ W&B training run: [wandb.ai/manojkyalaga-florida-atlantic-university/medrag-x](h
 ---
 
 ## Benchmark Results
-
+> Model live on HuggingFace: [manojkumaryalaga/medrag-x-pubmedbert-v3](https://huggingface.co/manojkumaryalaga/medrag-x-pubmedbert-v3) · Training logged on [W&B](https://wandb.ai/manojkyalaga-florida-atlantic-university/medrag-x)
 ### Training convergence — 5,000 samples, strict train/eval split
 
 | Epoch | NDCG@10 | Checkpoint |
