@@ -21,8 +21,6 @@ model = SentenceTransformer("manojkumaryalaga/medrag-x-pubmedbert-v3")
 
 Live at: [huggingface.co/manojkumaryalaga/medrag-x-pubmedbert-v3](https://huggingface.co/manojkumaryalaga/medrag-x-pubmedbert-v3)
 
-W&B training run: [wandb.ai/manojkyalaga-florida-atlantic-university/medrag-x](https://wandb.ai/manojkyalaga-florida-atlantic-university/medrag-x/runs/zdk0w6r7)
-
 ---
 
 ## Results
@@ -48,7 +46,7 @@ W&B training run: [wandb.ai/manojkyalaga-florida-atlantic-university/medrag-x](h
 ---
 
 ## Benchmark Results
-> Model live on HuggingFace: [manojkumaryalaga/medrag-x-pubmedbert-v3](https://huggingface.co/manojkumaryalaga/medrag-x-pubmedbert-v3) · Training logged on [W&B](https://wandb.ai/manojkyalaga-florida-atlantic-university/medrag-x)
+> Model live on HuggingFace: [manojkumaryalaga/medrag-x-pubmedbert-v3](https://huggingface.co/manojkumaryalaga/medrag-x-pubmedbert-v3)
 ### Training convergence — 5,000 samples, strict train/eval split
 
 | Epoch | NDCG@10 | Checkpoint |
